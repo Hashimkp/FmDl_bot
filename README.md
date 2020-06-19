@@ -10,7 +10,7 @@
 
 #### Deploy to heroku using the button below.
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Hashimkp/FmDl_bot/tree/master)
 
 #### On Local Computer
 
